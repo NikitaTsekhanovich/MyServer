@@ -1,0 +1,49 @@
+2023-01-22 20:33:11.4839|INFO|Server.Program|Listeting loop started.
+2023-01-22 20:34:13.9689|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:34:13.9689|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:53428
+2023-01-22 20:44:08.1182|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:44:08.1182|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:53796
+2023-01-22 20:45:22.2785|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:45:22.2785|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:53835
+2023-01-22 20:46:44.6911|INFO|Server.MySqlUserRepository|Read user: Login
+2023-01-22 20:46:44.6911|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:53884
+2023-01-22 20:46:49.1476|INFO|Server.MySqlUserRepository|Read user: Login
+2023-01-22 20:46:49.1476|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:53884
+2023-01-22 20:47:08.5439|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:47:08.5439|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:53884
+2023-01-22 20:51:35.3931|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:51:35.3931|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:54035
+2023-01-22 20:52:02.3835|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:52:02.9716|INFO|Server.MySqlClientRepository|Read client: 43278
+2023-01-22 20:52:03.0106|INFO|Server.Program|Tried to read client:43278
+2023-01-22 20:52:03.0106|INFO|Server.Program|Got request: method: GET Path: /clients/43278Client IP: 127.0.0.1:54035
+2023-01-22 20:55:12.5327|INFO|Server.MySqlUserRepository|Read user: Login
+2023-01-22 20:55:12.5327|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:54148
+2023-01-22 20:57:16.8319|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:57:16.8319|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:54218
+2023-01-22 20:57:22.3136|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:57:22.3305|INFO|Server.MySqlClientRepository|Read client: khgdkhg
+2023-01-22 20:57:22.3305|INFO|Server.Program|Tried to read client:khgdkhg
+2023-01-22 20:57:22.3305|INFO|Server.Program|Got request: method: GET Path: /clients/khgdkhgClient IP: 127.0.0.1:54218
+2023-01-22 20:57:28.2381|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:57:28.2491|INFO|Server.MySqlClientRepository|Read client: kdfkg
+2023-01-22 20:57:28.2491|INFO|Server.Program|Tried to read client:kdfkg
+2023-01-22 20:57:28.2491|INFO|Server.Program|Got request: method: GET Path: /clients/kdfkgClient IP: 127.0.0.1:54218
+2023-01-22 20:57:49.6624|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:57:49.6624|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:54218
+2023-01-22 20:58:25.3338|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:58:25.3443|INFO|Server.MySqlClientRepository|Read client: 43278
+2023-01-22 20:58:25.3443|INFO|Server.Program|Tried to read client:43278
+2023-01-22 20:58:25.3443|INFO|Server.Program|Got request: method: GET Path: /clients/43278Client IP: 127.0.0.1:54218
+2023-01-22 20:59:54.0969|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 20:59:54.0969|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:54308
+2023-01-22 21:00:03.2240|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 21:00:03.2346|INFO|Server.MySqlClientRepository|Read client: 43278
+2023-01-22 21:00:03.2346|INFO|Server.Program|Tried to read client:43278
+2023-01-22 21:00:03.2346|INFO|Server.Program|Got request: method: GET Path: /clients/43278Client IP: 127.0.0.1:54308
+2023-01-22 21:01:18.6442|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 21:01:18.6442|INFO|Server.Program|Got request: method: GET Path: /Client IP: 127.0.0.1:54354
+2023-01-22 21:01:25.4476|INFO|Server.MySqlUserRepository|Read user: dragon4738
+2023-01-22 21:01:25.4476|INFO|Server.MySqlClientRepository|Read client: 43278
+2023-01-22 21:01:25.4476|INFO|Server.Program|Tried to read client:43278
+2023-01-22 21:01:25.4476|INFO|Server.Program|Got request: method: GET Path: /clients/43278Client IP: 127.0.0.1:54354

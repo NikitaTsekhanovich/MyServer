@@ -1,0 +1,3 @@
+2023-01-21 20:14:22.1553|INFO|Server.Program|Listeting loop started.
+2023-01-21 20:14:33.0975|INFO|Server.Program|Tried to read client:1
+2023-01-21 20:14:33.1094|INFO|Server.Program|Got request: method: GET Path: /clients/1Client IP: 127.0.0.1:54374
